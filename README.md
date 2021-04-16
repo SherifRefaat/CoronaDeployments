@@ -1,6 +1,6 @@
 # Corona Deployments
 
-This project is created to make in-house and small scale deployments easy, and is mostly built in the .NET world. Inspired by my journey toward recovery from Corona-19 virus.
+This project is created to versioned deployments behind IIS easy! Inspired by my journey toward recovery from Corona-19 virus.
 
 ## Demo (Release 1)
 
